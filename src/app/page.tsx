@@ -247,7 +247,7 @@ export default function Home() {
 
       {/* 풋터 */}
       <footer className="bg-amber-900 text-white py-12 text-center">
-        <p className="text-2xl mb-4">루디 공주님을 사랑해주셔서 감사합니다 💕👑</p>
+        <p className="text-2xl mb-4">루디 공주님💕👑</p>
         <p className="text-amber-200">우리집 막내 | 10월 1일생 | 쥐돌이 러버</p>
         <p className="text-amber-300 mt-2">총 28장의 소중한 순간들</p>
       </footer>
